@@ -1,6 +1,6 @@
 # financial-markets
 
-Research and analysis covering tokenised financial assets, DeFi trading protocols, on-chain forex, and the security risks specific to on-chain financial infrastructure. Part of the Vektasafe portfolio at github.com/vektasafe-dev.
+Research and analysis covering tokenised financial assets, DeFi trading protocols, on-chain forex, and the security risks specific to on-chain financial infrastructure. Part of the Vektasafe portfolio at github.com/vektasafe.
 
 ---
 
